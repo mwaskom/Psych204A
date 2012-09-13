@@ -1,4 +1,4 @@
-Psych204A
-=========
+Psych204A Human Neuroimaging Methods
+====================================
 
-Psych
+Course materials for Psychology 204A
